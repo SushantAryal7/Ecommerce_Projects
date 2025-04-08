@@ -8,7 +8,6 @@ import Dashboard from "./pages/Dashboard";
 import Navbar from "./components/Navbar";
 import Footer from "./components/Footer";
 import ProductCard from "./components/ProductCard";
-import Counter from "./pages/Counter";
 import ProtectedRoutes from "./pages/ProtectedRoutes";
 import Logout from "./pages/Logout";
 // import "./index.css";

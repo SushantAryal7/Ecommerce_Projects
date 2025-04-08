@@ -1,5 +1,5 @@
 import { useState } from "react";
-import { Link } from "react-router-dom";
+import { Link, useNavigate } from "react-router-dom";
 
 const Signup = () => {
   const [formData, setFormData] = useState({
@@ -11,7 +11,7 @@ const Signup = () => {
 
   const [errors, setErrors] = useState({});
   const [submitted, setSubmitted] = useState(false);
-
+  const navigate = useNavigate();
   // Input Change Handler
   const handleChange = (e) => {
     setFormData({ ...formData, [e.target.name]: e.target.value });
@@ -58,8 +58,10 @@ const Signup = () => {
 
       // LocalStorage में सेव करें
       localStorage.setItem("emailId", JSON.stringify(customer));
-      console.log("errr");
       setSubmitted(true);
+      setTimeout(() => {
+        navigate("/");
+      }, 500);
     }
   };
 
