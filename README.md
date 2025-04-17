@@ -31,7 +31,7 @@ Tech Stack: React, Redux, Firebase, Local Storage, CSS/Tailwind
 
 ## 📷 Screenshots
 
-| Home Page | Product Page |
+| Home Page | Cart Page |
 |-----------|--------------|
 | ![Home](./Screenshot/home.png) | ![cart](./Screenshot/CartPage.png) |
 
