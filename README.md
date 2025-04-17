@@ -37,9 +37,7 @@ Tech Stack: React, Redux, Firebase, Local Storage, CSS/Tailwind
 
 
 
-## 🔗 Live Demo
 
-[Click here to view live site](https://yourprojecturl.com)
 
 ## 📦 Installation
 
