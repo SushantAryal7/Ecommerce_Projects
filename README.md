@@ -42,7 +42,7 @@ Tech Stack: React, Redux, Firebase, Local Storage, CSS/Tailwind
 ## 📦 Installation
 
 ```bash
-git clone https://github.com/yourusername/projectname.git
-cd projectname
+git clone https://github.com/SushantAryal7/Ecommerce_Projects.git
+cd Ecommerce_Projects
 npm install
 npm start
