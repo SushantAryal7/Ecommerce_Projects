@@ -1,6 +1,20 @@
-# 📌 Project Name
+# 📌 E-commerce Web Application — React | Redux | Firebase | Local Storage
 
-A brief description of what this project does and who it's for.
+Developed a fully functional E-commerce web application where users can browse products and add them to their cart. The cart feature supports item quantity management and persists data using Local Storage for a seamless user experience.
+
+Key Features:
+
+🛒 Add to Cart / Remove from Cart functionality with real-time updates.
+
+💾 Cart data is saved using Local Storage, ensuring persistence across sessions.
+
+🔐 Firebase Integration for user authentication and backend support.
+
+📦 Redux is used for global state management, especially for the cart and user state.
+
+📱 Responsive UI for mobile and desktop screens.
+
+Tech Stack: React, Redux, Firebase, Local Storage, CSS/Tailwind
 
 ## 🛠️ Technologies Used
 
