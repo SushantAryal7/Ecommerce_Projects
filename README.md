@@ -21,7 +21,7 @@ A brief description of what this project does and who it's for.
 |-----------|--------------|
 | ![Home](./Screenshot/home.png) | ![cart](./Screenshot/CartPage.png) |
 
-> 💡 Tip: `screenshots` नाम का एक folder बना लो और उसमें image डाल दो।
+
 
 ## 🔗 Live Demo
 
