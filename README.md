@@ -5,9 +5,9 @@ A brief description of what this project does and who it's for.
 ## 🛠️ Technologies Used
 
 - HTML5
-- CSS3 / Tailwind / Bootstrap
+- CSS3 / Tailwind 
 - JavaScript / React
-- Redux / Firebase / MongoDB (जैसा भी use किया हो)
+- Redux / Firebase / Local Storage
 
 ## 🚀 Features
 
@@ -19,7 +19,7 @@ A brief description of what this project does and who it's for.
 
 | Home Page | Product Page |
 |-----------|--------------|
-| ![Home](./screenshots/home.png) | ![Product](./screenshots/product.png) |
+| ![Home](./screenshots/home.png) | ![cart](./screenshots/cart.png) |
 
 > 💡 Tip: `screenshots` नाम का एक folder बना लो और उसमें image डाल दो।
 
