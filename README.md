@@ -19,7 +19,7 @@ A brief description of what this project does and who it's for.
 
 | Home Page | Product Page |
 |-----------|--------------|
-| ![Home](./screenshots/home.png) | ![cart](./screenshots/cart.png) |
+| ![Home](./Screenshot/home.png) | ![cart](./Screenshot/cart.png) |
 
 > 💡 Tip: `screenshots` नाम का एक folder बना लो और उसमें image डाल दो।
 
